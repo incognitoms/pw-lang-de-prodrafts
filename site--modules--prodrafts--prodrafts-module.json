@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/ProDrafts\/ProDrafts.module",
+    "textdomain": "site--modules--prodrafts--prodrafts-module",
+    "translations": {
+        "b334c688ae369ff25ae02384a429b5ed": {
+            "text": "Bearbeiten"
+        },
+        "3fd5d1e6542d66cc1a03422833caf8f4": {
+            "text": "Ver\u00f6ffentlichen"
+        },
+        "1092d41fffa687eae43e9e068a74115e": {
+            "text": "L\u00f6schen"
+        },
+        "97f6a6df2141e65fdfa3c2c58ae05bda": {
+            "text": "Das Feld \"%s\" muss zusammen mit dem Entwurf verworfen werden"
+        },
+        "e5fbff8ffc2a4538177c449b3e66f094": {
+            "text": "Das Feld \"%s\" muss zusammen mit dem Entwurf ver\u00f6ffentlicht werden"
+        },
+        "13d4ecea0aeb9d4a2570483874bf0abb": {
+            "text": "Sie haben nicht die Berechtigung \"%s\" f\u00fcr die Seite %d"
+        }
+    }
+}

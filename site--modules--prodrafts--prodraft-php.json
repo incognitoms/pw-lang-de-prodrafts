@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProDrafts\/ProDraft.php",
+    "textdomain": "site--modules--prodrafts--prodraft-php",
+    "translations": {
+        "f03ab16cd58372c77ba45a3d9a5a1cb9": {
+            "text": "Entwurf"
+        },
+        "316f60f51a336c60edb336ee149abdff": {
+            "text": "Im Entwurf vorhanden, aber nicht in der Live-Version"
+        }
+    }
+}

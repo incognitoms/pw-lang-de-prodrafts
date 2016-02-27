@@ -1,0 +1,138 @@
+{
+    "file": "site\/modules\/ProDrafts\/ProDraftsPageEditorHooks.php",
+    "textdomain": "site--modules--prodrafts--prodraftspageeditorhooks-php",
+    "translations": {
+        "e171a12704337af4fd2bffc337901a3a": {
+            "text": "Dieses Feld kann nicht in einem Entwurf bearbeitet werden"
+        },
+        "e1e70a86be86e60f3238b209ee35113c": {
+            "text": "Diese Seite ist derzeit nicht ver\u00f6ffentlicht und daher nicht sichtbar."
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Ver\u00f6ffentlichen"
+        },
+        "5778e182c50cbba1d86e14690c8aa35c": {
+            "text": "Entwurf speichern"
+        },
+        "3abc955ec067c44d6c41e1cb42d83abb": {
+            "text": "Dieses Feld enth\u00e4lt unver\u00f6ffentlichte \u00c4nderungen"
+        },
+        "aaf16d4d9c5f9ef825dada0a657f9174": {
+            "text": "(um zu vergleichen, Icon anklicken)"
+        },
+        "d1a90a18d0f98e445891f48a059c223e": {
+            "text": "Diese Feld unterst\u00fctzt die Entwurfs-Funktion nicht. \u00c4nderungen werden immer in der Live-Version abgespeichert."
+        },
+        "89251b99d1880cc42f34a830ff2f12da": {
+            "text": "Achtung: die \u00c4nderungen an folgenden Feldern werden direkt ver\u00f6ffentlicht, da die Felder die Entwurfs-Funktion nicht unterst\u00fctzen."
+        },
+        "4e11db406c6c9f234fe8579cc9bc5ef6": {
+            "text": "Speichern"
+        },
+        "efed8d83a822ecafde46a82b630a4ca9": {
+            "text": "1 \u00c4nderung"
+        },
+        "5c2892cb638ec999fe22612587cd4a00": {
+            "text": "Keine \u00c4nderungen"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d \u00c4nderungen"
+        },
+        "a22c8e74dd3154b221d9b0045f7afb60": {
+            "text": "Es gibt ungespeicherte \u00c4nderungen. Sind Sie sicher, dass Sie abbrechen m\u00f6chten?"
+        },
+        "21c399e0251a38c4c2991c22607fd2a3": {
+            "text": "Sind Sie sicher, dass Sie die Seite ver\u00f6ffentlichen m\u00f6chten?"
+        },
+        "85a867a74b8bd667da4b08fb4fdde72b": {
+            "text": "Version l\u00f6schen"
+        },
+        "f932fba767eb07f59c24df7e1abe24da": {
+            "text": "Version %s l\u00f6schen?"
+        },
+        "7c2711028289cf8c1de92bb7bb40ca72": {
+            "text": "Bitte aktivieren Sie die Checkbox, wenn Sie diese Version l\u00f6schen m\u00f6chten."
+        },
+        "3b56c0e26e736791861766d3af9ff253": {
+            "text": "Entwurf verwerfen?"
+        },
+        "48b6aa387c19213848e0e7cd868a858a": {
+            "text": "Bitte aktivieren Sie die Checkbox, wenn Sie diesen Entwurf verwerfen m\u00f6chten. Die Seite selbst bleibt bestehen, nur die \u00c4nderungen werden entfernt."
+        },
+        "00fa77ad29e88f27af15a538b2402fe2": {
+            "text": "Es wurden \u00c4nderungen an folgenden Feldern durchgef\u00fchrt:"
+        },
+        "e2f49866c62a043b65d367d42ba69549": {
+            "text": "Achtung: Sie bearbeiten version %s."
+        },
+        "cdd9dd4221583260bdc69711a34effab": {
+            "text": "Ver\u00f6ffentlichen\/Speichern wandelt diese Version in die Live-Version."
+        },
+        "f03ab16cd58372c77ba45a3d9a5a1cb9": {
+            "text": "Entwurf"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Ver\u00f6ffentlicht"
+        },
+        "130c5b3473c57faa76e2a1c54e26f88e": {
+            "text": "Beide"
+        },
+        "a40cd434b16249d102d47da63b86d4f5": {
+            "text": "Unterschiede"
+        },
+        "9aa31fce869b3801bc4bfe17d55d3bc8": {
+            "text": "Verwerfen"
+        },
+        "b8a9cc0eab6a0a8f6ede5015b1ddec86": {
+            "text": "Zur\u00fcck zur aktuellen Fassung"
+        },
+        "f5c1064ebd117f58b45dceb0ca6cacaf": {
+            "text": "Live-Vorschau"
+        },
+        "fef46e5063ce3dc78b8ae64fa474241d": {
+            "text": "Abbrechen"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Neu laden"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Ansicht"
+        },
+        "9e69db6d28a0ec32d28e2c9e327fd40a": {
+            "text": "Versionen"
+        },
+        "a54549c9b6978dec33d84dd12a8a74d7": {
+            "text": "[nichts]"
+        },
+        "fe4fa1f94a3d39ea7aeb3dd3a75faec9": {
+            "text": "Unbekannte Version angefordert"
+        },
+        "95f61a8f2023c390a00a6bfcd5fd4779": {
+            "text": "Live-Version dieser Seite ist neuer als der Entwurf."
+        },
+        "3c2c0801e5809ee80efbc69ec8a58572": {
+            "text": "Unterschiede zur Live-Version"
+        },
+        "3ba829c1df37e6c98eeb99a9b14deb69": {
+            "text": "Benutzer"
+        },
+        "4903dc1e261a1a3f0479d6ed434c6ee6": {
+            "text": "Aktionen"
+        },
+        "604df2082cd7bbaea29d21fa8f748efb": {
+            "text": "Ansicht"
+        },
+        "f5e3c1ecd96fcc967d4441cd2c18f24c": {
+            "text": "Bearbeiten"
+        },
+        "90d55bef3569d9fa24a2a2fc9e53214c": {
+            "text": "Unterschiede"
+        },
+        "19abeb077f52c9e125fe0dbe0e2435ef": {
+            "text": "Infos zum Entwurf ausblenden"
+        },
+        "d9b12c58ff9f7bd15a4d6ee759801ae9": {
+            "text": "Infos zum Entwurf anzeigen"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "file": "site\/modules\/ProDrafts\/ProDrafts.config.php",
+    "textdomain": "site--modules--prodrafts--prodrafts-config-php",
+    "translations": {
+        "db3af42ba64b595db6ab3ea999fe0bb1": {
+            "text": "Entw\u00fcrfe"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "796b56b018f541276a3c142f19d105dc": {
+            "text": "Geben Sie den Wert in Millisekunden an (Beispiel: \u201e1000\u201c = 1 Sekunde). Wenn Sie geringere Werte w\u00e4hlen, wird die Live-Vorschau entsprechend h\u00e4ufiger aktualisiert."
+        },
+        "153997c167124bc9e71b449518b45eae": {
+            "text": "Entw\u00fcrfe aktivieren?"
+        },
+        "cdccd257d283c188fd7ec172a9632661": {
+            "text": "(alle Seiten werden unterst\u00fctzt)"
+        },
+        "f7a757e85c246b2dec4be28031e6ea5b": {
+            "text": "(nur Seiten, deren Vorlagen Sie festlegen)"
+        },
+        "128f6c81725d8db9bdd9ec3ce33756d9": {
+            "text": "Welche Vorlagen sollen Entw\u00fcrfe verwenden?"
+        },
+        "e2a7c1b1728505eac63f91d759604d69": {
+            "text": "Seiten, die auf den unten ausgew\u00e4hlten Vorlagen basieren, unterst\u00fctzen die Entwurfs-Funktion."
+        },
+        "42adc36346a19e68b877400adbc702f2": {
+            "text": "Ver\u00f6ffentlichen zuvor best\u00e4tigen?"
+        },
+        "ba10ff2cc99deef81d6a2a8e1699aaae": {
+            "text": "Sofern aktiviert, wird ein Best\u00e4tigungsdialog ausgegeben, sobald Sie die Seite ver\u00f6ffentlichen m\u00f6chten."
+        },
+        "80e3473cb091fb720b3d86074a8ba11b": {
+            "text": "Automatisches Speichern"
+        },
+        "d1cd74a4fee8e00ba63a82be54f5d3b3": {
+            "text": "Automatisches Speichern aktivieren?"
+        },
+        "31d64aa96be514da72d707af1942a3a2": {
+            "text": "Sofern aktiviert, werden automatisch \u00c4nderungen im Entwurf gespeichert, so dass der Entwurf immer auf dem aktuellen Stand ist."
+        },
+        "1b286f44c33776bd9333653684caa1c2": {
+            "text": "Normales Auto-Speichern registriert gedr\u00fcckte Tasten und ge\u00e4nderte Zust\u00e4nde und speichert, sobald keine Nutzer-Eingabe f\u00fcr l\u00e4nger als eine Sekunde erfolgt."
+        },
+        "4398bd7de6197ed24375acc41cb9db41": {
+            "text": "Normales Auto-Speichern wird in den meisten F\u00e4llen empfohlen, sofern nicht Verz\u00f6gerungen auftreten. Es ist auch sehr zu empfehlen, falls Sie die Live-Vorschau verwenden."
+        },
+        "407036196f64e9f6001a57e75fcc6a2d": {
+            "text": "Verz\u00f6gertes Auto-Speichern \u00fcberpr\u00fcft seltener auf \u00c4nderungen und ber\u00fccksichtigt nur ge\u00e4nderte Zust\u00e4nde."
+        },
+        "3cac64a15874c7dc94c9aedc376ac22c": {
+            "text": "Auszuschlie\u00dfende Felder"
+        },
+        "d45e6f3d938df5ed88c9211a58f38d88": {
+            "text": "Ausgew\u00e4hlte Felder werden nicht automatisch gespeichert. Verwenden Sie diese Option, falls Sie Felder einsetzen, die nicht problemlos von Auto-Speichern unterst\u00fctzt werden."
+        },
+        "b88f6197f08b4dff3b826e8dc022bc00": {
+            "text": "Auszuschlie\u00dfende Variablen"
+        },
+        "f246f7c96723a30a731337cd561d983f": {
+            "text": "Zeitintervall"
+        },
+        "8f4314e93861161527b1920ddebb72bc": {
+            "text": "Verz\u00f6gerung der Nutzer-Eingabe"
+        },
+        "7d0b61c6d390f6bc65400d474038b1f5": {
+            "text": "Live-Vorschau"
+        },
+        "72f277fae331a0cb389c3e31178a7e90": {
+            "text": "\u201eLive-Vorschau\u201c aktivieren?"
+        },
+        "02f9d8243f43d09349c516ceaebb7c39": {
+            "text": "Mehr zu \u201eLive-Vorschau\u201c"
+        },
+        "a393ab38280db7435576fcb5a7fd4311": {
+            "text": "Im \u201eNormal\u201c-Modus wird versucht, die Vorschau zu aktualisieren, ohne die gesamte Seite neu zu laden."
+        },
+        "8845ba976075dc16b2fddecae5158b78": {
+            "text": "Sie k\u00f6nnen im \u201eNormal-Modus\u201c auch [Hinweise](%s) zur Live-Vorschau hinzuf\u00fcgen"
+        },
+        "4803452191d26f46341512dada902296": {
+            "text": "Der \u201eNur Aktualisieren\u201c-Modus l\u00e4dt die komplette Seite nach, falls \u00c4nderungen erfolgen."
+        },
+        "1711af29bf4a8792f9594067084a2cc8": {
+            "text": "Verwenden Sie den \u201eNur Aktualisieren\u201c-Modus, wenn Sie in der Ausgabe Probleme mit dem \u201eNormal\u201c-Modus feststellen."
+        },
+        "c509060a9f7dfb7c6ee8027a3508a564": {
+            "text": "Maximale Anzahl an Versionen"
+        },
+        "193b35ca7354e43248c54186abe7bf65": {
+            "text": "Maximale Anzahl an vorherigen Versionen, die f\u00fcr jede Seite gespeichert werden sollen."
+        },
+        "f601a803534ce8aac7626415118106d3": {
+            "text": "Lizenzschl\u00fcssel"
+        },
+        "1d85e26e21454254d84dfc1ef62ced4e": {
+            "text": "(\u201eNur Aktualisieren\u201c-Modus)"
+        },
+        "fc1268076b2e2b16228ce7f7873c4b94": {
+            "text": "Geben Sie einen regul\u00e4ren Ausdruck (PCRE) pro Zeile an."
+        },
+        "dae0a06f79d57f3fc331cfa05dd2369e": {
+            "text": "Wie oft soll \u201eAuto-Speichern\u201c auf \u00c4nderungen pr\u00fcfen"
+        },
+        "ad0a08b852567782365d348336b07681": {
+            "text": "(\u201eNormal\u201c-Modus)"
+        },
+        "eb892eeff1c971d5ae525c8e1df91e71": {
+            "text": "(\u201eVerz\u00f6gert\u201c-Modus)"
+        },
+        "4fa5a0e47ae0a3c52533eb2fc1592cc6": {
+            "text": "(\u201eNormal\u201c-Modus)"
+        },
+        "45e9b7fe87060988a9191ff6a050d598": {
+            "text": "Wie lange soll \u201eAuto-Speichern\u201c nach dem letzten Tastendruck warten, bis die \u00c4nderungen gespeichert werden?"
+        },
+        "966dc45a56fa9bf1bb7a3af03fd03c5e": {
+            "text": "\u201eLive-Vorschau\u201c erm\u00f6glicht, den Seiteneditor und die Seitenausgabe nebeneinander darzustellen, so dass Sie Ihre \u00c4nderungen unmittelbar in der Seitenausgabe ansehen k\u00f6nnen."
+        },
+        "f039037773882b756aafc12e922d0e41": {
+            "text": "Verwenden Sie diese Option, um mittels regul\u00e4rer Ausdr\u00fccke POST-Variablen zu filtern, die nicht ber\u00fccksichtigt werden sollen. In den meisten F\u00e4llen m\u00fcssen hier keine Einstellungen vorgenommen werden."
+        },
+        "f54dfbd99beeed984a8ba2ffc10ed900": {
+            "text": "Einige Felder verwenden zahlreiche Eigenschaften im POST-Aufruf, von denen Sie m\u00f6glicherweise einige nicht automatisch speichern m\u00f6chten."
+        }
+    }
+}

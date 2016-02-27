@@ -1,0 +1,153 @@
+{
+    "file": "site\/modules\/ProDrafts\/ProcessProDrafts.module",
+    "textdomain": "site--modules--prodrafts--processprodrafts-module",
+    "translations": {
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Ausw\u00e4hlen"
+        },
+        "d142dd5078dbd987b8445f3d333f40cb": {
+            "text": "Entwurf ansehen"
+        },
+        "f03ab16cd58372c77ba45a3d9a5a1cb9": {
+            "text": "Entwurf"
+        },
+        "db7fc2ab66c7c769e09b19baf78a0a9d": {
+            "text": "Ver\u00f6ffentlichte Version ansehen"
+        },
+        "e15722a970d50c7f452d53d719d5638b": {
+            "text": "Beide Versionen nebeneinander anzeigen"
+        },
+        "130c5b3473c57faa76e2a1c54e26f88e": {
+            "text": "Beide"
+        },
+        "3715fa5194218955142b90ab56bf7992": {
+            "text": "Unterschiede anzeigen"
+        },
+        "79b1daa34fba59dba6db3a13184c8fb5": {
+            "text": "Markierte ver\u00f6ffentlichen"
+        },
+        "fe7dd5778c2f36b57f1fc11a7c6d8d65": {
+            "text": "Markierte verwerfen"
+        },
+        "372d0743f73e3df7204be8b93122f023": {
+            "text": "Es gibt derzeit keine Entw\u00fcrfe"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigurieren"
+        },
+        "0d6c9a2d5bc413801b36b0aacf58bfe3": {
+            "text": "Diese Version existiert nicht"
+        },
+        "7ea3dd73190da2c655c47f2548bb9d71": {
+            "text": "Diese Seite hat derzeit keine vergleichbaren \u00c4nderungen"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "leer"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Ver\u00f6ffentlicht"
+        },
+        "bbf3f3ea10031e383af6e16024d803d1": {
+            "text": "\u00c4nderung ver\u00f6ffentlichen"
+        },
+        "0a611ce0b64ac5fe2ed9786072fb2acd": {
+            "text": "\u00c4nderung verwerfen"
+        },
+        "7fc04983e283b5c4b5c21a9d669e57b9": {
+            "text": "Es scheint bislang keine \u00c4nderungen an diesem Entwurf zu geben."
+        },
+        "9c5bd8a1d001cd08228f4c3e78539439": {
+            "text": "\u00c4nderungen zu:"
+        },
+        "4a6337a3a792e0585db34ca5b06f28f2": {
+            "text": "Alle \u00c4nderungen ver\u00f6ffentlichen"
+        },
+        "2602b2f3d1c0b52a165c8f22c7a5e404": {
+            "text": "Alle \u00c4nderungen verwerfen"
+        },
+        "52f40956817602500a66126c7697d321": {
+            "text": "Aktion best\u00e4tigen"
+        },
+        "47f1913d55585a99c0f45e47ab94ca4e": {
+            "text": "Aktion abgebrochen"
+        },
+        "cc5f81a79bf32fffcf132e0deee48876": {
+            "text": "keine \u00c4nderungen"
+        },
+        "c586f4419719b2537c80d17cb4dc2187": {
+            "text": "Entwurf f\u00fcr Seite %s gel\u00f6scht"
+        },
+        "148e8bf1df7f9bc75583659bc04964d5": {
+            "text": "Entwurf f\u00fcr Seite %s ver\u00f6ffentlicht"
+        },
+        "3b56c0e26e736791861766d3af9ff253": {
+            "text": "Entwurf verwerfen?"
+        },
+        "b7bfde9e8b99aa2a7dd51ff6eb0c5759": {
+            "text": "Entwurf ver\u00f6ffentlichen?"
+        },
+        "11413baf15a990115b0649d7ae13911e": {
+            "text": "Es gibt keinen Entwurf, um die Aktion durchzuf\u00fchren."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Best\u00e4tigen"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        },
+        "f7931413dee107ddf5289c8886baf7ec": {
+            "text": "Bearbeiten: %s"
+        },
+        "51a8e369fb4c6e22feb771f16958f71a": {
+            "text": "Ver\u00f6ffentlichter Entwurf"
+        },
+        "bc35a9b2a708e6730f9d5030c69486f1": {
+            "text": "Seite bearbeiten"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Vorlage"
+        },
+        "1657ba9dcb2e53fb030d7a9a6203c37b": {
+            "text": "\u00c4nderungen"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Ge\u00e4ndert"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Benutzer"
+        },
+        "5ed2d46c646672b8e7b91016a4e2eeb7": {
+            "text": "Ansicht"
+        },
+        "f2c558fc9ca65d3e3d089f4096050e22": {
+            "text": "Seite"
+        },
+        "0bdaf7dfcb2cfd4370a6592354ce24be": {
+            "text": "Felder"
+        },
+        "c1a40756dc220688050e2afb539eb21d": {
+            "text": "%d zur\u00fcckgestellter Entwurf"
+        },
+        "c93a00ce688d82301c942fff9c11d9af": {
+            "text": "%d zur\u00fcckgestellte Entw\u00fcrfe"
+        },
+        "a60e18051b6aace8aba03f01f2e4e0e5": {
+            "text": "%d Entwurf"
+        },
+        "2a676940208e42e717a81fb6651ef183": {
+            "text": "%d Entw\u00fcrfe"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d \u00c4nderung"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d \u00c4nderungen"
+        },
+        "49630f5d7723e9b41474bd1cb1887b9d": {
+            "text": "Unterschiede"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "Ver\u00f6ffentlicht"
+        }
+    }
+}
